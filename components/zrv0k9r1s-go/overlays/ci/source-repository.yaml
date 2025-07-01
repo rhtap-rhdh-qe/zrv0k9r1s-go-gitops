@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zrv0k9r1s-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zrv0k9r1s-go
